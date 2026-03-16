@@ -1,0 +1,8 @@
+clip_10m_20m_norm.wav|-29.55|1.0000
+clip_dfn_12_norm.wav|-29.63|1.0000
+clip_dfn_6_norm.wav|-29.61|1.0000
+clip_dfn_9_norm.wav|-29.62|1.0000
+clip_nr_0.85_norm.wav|-31.69|1.0000
+clip_nr_0.90_norm.wav|-31.83|1.0000
+clip_nr_0.95_norm.wav|-31.96|1.0000
+clip_nr_1.00_norm.wav|-32.09|1.0000
