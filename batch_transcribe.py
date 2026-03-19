@@ -16,8 +16,8 @@ import noisereduce as nr
 from faster_whisper import WhisperModel
 
 # ====================== 配置 ======================
-INPUT_DIR   = "c:/_/Whisper/123"
-OUTPUT_DIR  = "c:/_/Whisper/123/1234"
+INPUT_DIR   = "c:/_/Whisper/输入"
+OUTPUT_DIR  = "c:/_/Whisper/输出"
 FFMPEG_PATH = r"C:\DownKyi-1.6.1\ffmpeg.exe"
 PROGRESS_FILE = os.path.join(OUTPUT_DIR, "progress.json")
 
